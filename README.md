@@ -14,7 +14,7 @@ Here are some example results:
 
 Saliency map for dalmatian:
 
-![](ILSVRC2012_val_00002216.JPEG)![](Results/dalmatian_heatmap.png) ![](Results/dalmatian_IGOS.png) 
+![](Images/ILSVRC2012_val_00002216.JPEG)![](Results/dalmatian_heatmap.png) ![](Results/dalmatian_IGOS.png) 
 
 Videos:
 
