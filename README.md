@@ -11,7 +11,7 @@ http://people.oregonstate.edu/~khorrams/igos_demo_no_gpu/#results
 **IGOS_generate_video.py**: utilize I-GOS to generate saliency maps for the images in **‘./Images/’** on the pretrained VGG19 networks from the PyTorch model zoo, and then write video for each image to demonstrate how the deletion and insertion curves change.  
 
 Here is an example result:
-![](dalmatian.gif)
+![](Results/dalmatian.gif)
 
 ## Dependencies
 All code is written in Python 3.6. You may need PyTorch 0.4.0 to make the code work well. <br> 
