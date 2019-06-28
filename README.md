@@ -12,9 +12,9 @@ http://people.oregonstate.edu/~khorrams/igos_demo_no_gpu/#results
 
 Here are some example results:
 
-Saliency map for dalmatian:
+Saliency maps for dalmatian:
 
-![](Images/ILSVRC2012_val_00002216.JPEG)![](Results/dalmatian_heatmap.png) ![](Results/dalmatian_IGOS.png) 
+![](Results/dalmatian_heatmap.png) ![](Results/dalmatian_IGOS.png) 
 
 Videos:
 
