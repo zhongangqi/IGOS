@@ -412,7 +412,7 @@ def showimage(del_img, insert_img, del_curve, insert_curve, target_path, xtick, 
     ####################################################
     pylab.rcParams['figure.figsize'] = (10, 10)
     f, ax = plt.subplots(2,2)
-    f.suptitle('Category: ' + title, y=0.04, fontsize=13)
+    f.suptitle('Category ' + title, y=0.04, fontsize=13)
     f.tight_layout()
     plt.subplots_adjust(left=0.005, bottom=0.1, right=0.98, top=0.93,
                         wspace=0.05, hspace=0.25)
