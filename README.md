@@ -21,4 +21,17 @@ Videos:
 ![](Results/dalmatian.gif)
 
 ## Dependencies
-All code is written in Python 3.6. You may need PyTorch 0.4.0 to make the code work well. <br> 
+All code is written in Python 3.6. To install the dependencies, first install and activate a virtual environment:
+```
+python -m venv env
+source env/bin/activate
+```
+and then you can install the dependencies using `pip`:
+```
+pip install -r requirements.txt
+```
+Now, you just need to run the `IGOS_generate_video.py` to generate saliency map and insertion/deletion video:
+```
+python IGOS_generate_video.py
+```
+<br> 
