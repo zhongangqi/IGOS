@@ -4,7 +4,7 @@ This is a simple pytorch demo of the Integrated-Gradients Optimized Saliency (I-
 Zhongang Qi, Saeed Khorram, Fuxin Li, in arXiv preprint arXiv:1905.00954. 
 
 For project website, please see:<br>
-http://people.oregonstate.edu/~khorrams/igos_demo_no_gpu/#results
+http://people.oregonstate.edu/~khorrams/igos_demo_no_gpu
 
 
 ## Quick Start

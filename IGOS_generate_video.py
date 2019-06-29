@@ -277,8 +277,7 @@ def Integrated_Mask(img, blurred_img, model, category, max_iterations = 15, inte
         new_condition = new_condition.sum()
         new_condition = alpha * step * new_condition
 
-
-        while loss_LSdata > loss_oridata - new_condition:
+        while loss_LSdata > loss_oridata - new_condition.cpu().numpy():
             step *= beta
 
             MaskClone = mask.data.clone()
