@@ -435,7 +435,7 @@ def showimage(del_img, insert_img, del_curve, insert_curve, target_path, xtick, 
 
     ax[0,1].plot(del_curve,'r*-')
     ax[0,1].set_xlabel('number of blocks')
-    ax[0,1].set_ylabel('objective function value')
+    ax[0,1].set_ylabel('classification confidence')
     ax[0,1].legend(['Deletion'])
     ax[0,1].set_xticks(range(0, xtick, 10))
     ax[0, 1].set_yticks(np.arange(0, 1.1, 0.1))
