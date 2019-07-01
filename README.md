@@ -20,6 +20,10 @@ Videos:
 
 ![](Results/dalmatian.gif)
 
+The intuition behind the **deletion** metric is that the removal of the pixels most relevant to a class will cause the original class score dropping sharply;
+The intuition behind the **insertion** metric is that only keeping the most relevant pixels will retain the original score as much as possible.
+
+
 ## Dependencies
 All code is written in Python 3.6. To install the dependencies, first install and activate a virtual environment:
 ```
