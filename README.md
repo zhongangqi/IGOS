@@ -20,8 +20,8 @@ Videos:
 
 ![](Results/dalmatian.gif)
 
-The intuition behind the **deletion** metric is that the removal of the pixels most relevant to a class will cause the original class score dropping sharply;
-The intuition behind the **insertion** metric is that only keeping the most relevant pixels will retain the original score as much as possible.
+The intuition behind the **Deletion** metric is that the removal of the pixels most relevant to a class will cause the original class score dropping sharply;
+The intuition behind the **Insertion** metric is that only keeping the most relevant pixels will retain the original score as much as possible.
 
 
 ## Dependencies
