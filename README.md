@@ -4,8 +4,7 @@ This is a simple pytorch demo of the Integrated-Gradients Optimized Saliency (I-
 Zhongang Qi, Saeed Khorram, Fuxin Li, in arXiv preprint arXiv:1905.00954. 
 
 For project website, please see:<br>
-http://people.oregonstate.edu/~khorrams/igos_demo_no_gpu
-
+https://igos.eecs.oregonstate.edu/
 
 ## Quick Start
 **IGOS_generate_video.py**: utilize I-GOS to generate saliency maps for the images in **‘./Images/’** on the pretrained VGG19 networks for ImageNet from the PyTorch model zoo, and then write video for each image to demonstrate how the deletion and insertion curves change.  
