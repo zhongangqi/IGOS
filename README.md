@@ -1,3 +1,6 @@
+***
+Please checkout our new paper iGOS++ and optimized code for both I-GOS and iGOS++ [here](https://github.com/saeed-khorram/igos_pp).
+***
 # IGOS
 This is a simple pytorch demo of the Integrated-Gradients Optimized Saliency (I-GOS) described in
 >**Visualizing Deep Networks by Optimizing with Integrated Gradients** ([PDF](https://arxiv.org/abs/1905.00954))<br>
