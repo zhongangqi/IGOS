@@ -1,5 +1,6 @@
+##UPDATE
 ***
-Please checkout our new paper iGOS++ and optimized code for both I-GOS and iGOS++ [here](https://github.com/saeed-khorram/igos_pp).
+Please check out our new paper [iGOS++](https://arxiv.org/abs/2012.15783) and optimized code for both I-GOS and iGOS++ [**here**](https://github.com/saeed-khorram/igos_pp).
 ***
 # IGOS
 This is a simple pytorch demo of the Integrated-Gradients Optimized Saliency (I-GOS) described in
