@@ -1,5 +1,4 @@
 ## UPDATE
-***
 Please check out our new paper [iGOS++](https://arxiv.org/abs/2012.15783) and optimized code for both I-GOS and iGOS++ [**here**](https://github.com/saeed-khorram/igos_pp).
 ***
 # IGOS
